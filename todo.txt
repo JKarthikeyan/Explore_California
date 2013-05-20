@@ -1,2 +1,2 @@
-This is an ignored text file
+This is not an ignored text file
 Added a todo from master.
